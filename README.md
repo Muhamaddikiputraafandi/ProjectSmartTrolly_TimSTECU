@@ -4,8 +4,18 @@ Proyek ini bertujuan untuk mengembangkan Smart Shopping Trolley berbasis mikroko
 Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan komunikasi UART untuk memberikan solusi cerdas yang memungkinkan konsumen memantau total harga belanjaan secara real-time. Dengan konsep ini, konsumen tidak perlu lagi mengantri di kasir, sehingga proses checkout menjadi lebih cepat, efisien, dan nyaman.
 
 ## Fitur
-- Fitur 1
-- Fitur 2
+- #### Barang Otomatis Terdeteksi :
+    Setiap barang yang dimasukkan ke keranjang akan discan menggunakan barcode scanner atau RFID scanner.
+- #### Perhitungan Otomatis Total Belanja :
+    Setelah barang discan, sistem otomatis menambahkan harga barang ke total belanja.
+- #### Koneksi Bluetooth UART ke Android :
+    Total belanjaan, daftar barang, dan info lainnya dikirimkan secara real-time via modul Bluetooth (HC-05/HC-06) ke aplikasi Android.
+- #### Manajemen Item :
+    Di aplikasi Android, pengguna bisa Melihat daftar item belanja dan Menghapus item (fitur cancel jika batal beli barang)
+- #### Sistem Timer Aktivitas :
+    Jika dalam waktu tertentu tidak ada barang yang discan, sistem akan otomatis menyimpan status keranjang dan mengirimkan reminder ke aplikasi.
+- #### Notifikasi Suara/LED :
+    LED indikator dan buzzer berbunyi jika terjadi event penting: Barang baru dimasukkan, Barang dibatalkan, dan Total harga berubah
 
 ## Support By
 - Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
@@ -13,13 +23,17 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 - Program Studi : D4 Teknik Elektronika
 - Politeknik Elektronika Negeri Surabaya
 
-  ## Team Member :
+## Team Member :
 
 | NRP        | Nama                   | Jobdesk              | Akun        |
 |------------|------------------------|----------------------|-------------|
-| 2123600002 | Suci Tri Rahayu        |  Software Developer  |  |
-| 2123600008 | Samsul Ma'arif         |  UI/UX Designer      |   |
-| 2123600009 | M. Diki Putra Afandi   |  Project Manager     |  |
-| 2123600012 | M. Daniel Prakusye     |  3D Designer         |  |
-| 2123600016 | Ibrahim Fansori        |  UI/UX Designer      |  |
-| 2123600028 | M. Faqih Zulfikar      |  Software Developer  |  |
+| 2123600002 | Suci Tri Rahayu        |  Software Developer  | [Suci](https://github.com/sucirhyu)|
+| 2123600008 | Samsul Ma'arif         |  UI/UX Designer      | [Samsul](https://github.com/samsul-21)|
+| 2123600009 | M. Diki Putra Afandi   |  Project Manager     | [Diki](https://github.com/Muhamaddikiputraafandi)|
+| 2123600012 | M. Daniel Prakusye     |  3D Designer         | [Daniel](https://github.com/danielwibowo)|
+| 2123600016 | Ibrahim Fansori        |  UI/UX Designer      | [Ibrahim](https://github.com/IbrahimFansori)  |
+| 2123600028 | M. Faqih Zulfikar      |  Software Developer  | [Faqih](https://github.com/faqihzulfi)|
+
+## Preview Video Produk
+
+
