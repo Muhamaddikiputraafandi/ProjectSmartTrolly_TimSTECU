@@ -1,0 +1,25 @@
+# Smart Shopping Trolley
+
+Proyek ini bertujuan untuk mengembangkan Smart Shopping Trolley berbasis mikrokontroler yang dirancang untuk mempermudah pengalaman berbelanja di toko atau supermarket. Keranjang belanja ini dilengkapi dengan sensor RFID untuk membaca barang yang dimasukkan, menghitung total harga belanjaan secara otomatis, dan mengirimkan data pembelian ke aplikasi Android milik pembeli.
+Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan komunikasi UART untuk memberikan solusi cerdas yang memungkinkan konsumen memantau total harga belanjaan secara real-time. Dengan konsep ini, konsumen tidak perlu lagi mengantri di kasir, sehingga proses checkout menjadi lebih cepat, efisien, dan nyaman.
+
+## Fitur
+- Fitur 1
+- Fitur 2
+
+## Support By
+- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
+- Mata kuliah : Mikrokontroller
+- Program Studi : D4 Teknik Elektronika
+- Politeknik Elektronika Negeri Surabaya
+
+  ## Team Member :
+
+| NRP        | Nama                   | Jobdesk              | Akun        |
+|------------|------------------------|----------------------|-------------|
+| 2123600002 | Suci Tri Rahayu        |  Software Developer  |  |
+| 2123600008 | Samsul Ma'arif         |  UI/UX Designer      |   |
+| 2123600009 | M. Diki Putra Afandi   |  Project Manager     |  |
+| 2123600012 | M. Daniel Prakusye     |  3D Designer         |  |
+| 2123600016 | Ibrahim Fansori        |  UI/UX Designer      |  |
+| 2123600028 | M. Faqih Zulfikar      |  Software Developer  |  |
