@@ -12,8 +12,6 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
     Total belanjaan, daftar barang, dan info lainnya dikirimkan secara real-time via modul Bluetooth (HC-05/HC-06) ke aplikasi Android.
 - #### Manajemen Item :
     Di aplikasi Android, pengguna bisa Melihat daftar item belanja dan Menghapus item (fitur cancel jika batal beli barang)
-- #### Sistem Timer Aktivitas :
-    Jika dalam waktu tertentu tidak ada barang yang discan, sistem akan otomatis menyimpan status keranjang dan mengirimkan reminder ke aplikasi.
 - #### Notifikasi Suara/LED :
     LED indikator dan buzzer berbunyi jika terjadi event penting: Barang baru dimasukkan, Barang dibatalkan, dan Total harga berubah
 
