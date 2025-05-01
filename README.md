@@ -26,10 +26,10 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 | NRP        | Nama                   | Jobdesk              | Akun        |
 |------------|------------------------|----------------------|-------------|
 | 2123600002 | Suci Tri Rahayu        |  Software Developer  | [Suci](https://github.com/sucirhyu)|
-| 2123600008 | Samsul Ma'arif         |  UI/UX Designer      | [Samsul](https://github.com/samsul-21)|
+| 2123600008 | Samsul Ma'arif         |  Hardware Spesialist | [Samsul](https://github.com/samsul-21)|
 | 2123600009 | M. Diki Putra Afandi   |  Project Manager     | [Diki](https://github.com/Muhamaddikiputraafandi)|
 | 2123600012 | M. Daniel Prakusye     |  3D Designer         | [Daniel](https://github.com/danielwibowo)|
-| 2123600016 | Ibrahim Fansori        |  UI/UX Designer      | [Ibrahim](https://github.com/IbrahimFansori)  |
+| 2123600016 | Ibrahim Fansori        |  PCB Designer        | [Ibrahim](https://github.com/IbrahimFansori)  |
 | 2123600028 | M. Faqih Zulfikar      |  Software Developer  | [Faqih](https://github.com/faqihzulfi)|
 
 ## Preview Video Produk
