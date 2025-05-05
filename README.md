@@ -37,3 +37,6 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 ## Preview Video Produk
 [![Smart Trolley Video](https://img.youtube.com/vi/qu6nkCT1aYU/0.jpg)](https://youtu.be/qu6nkCT1aYU)
 
+📽️ [Tonton Video Produk](Dokumentasi/Video%20Promotion%20Product%20(1).mp4)
+
+
