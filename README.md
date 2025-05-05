@@ -33,5 +33,5 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 | 2123600028 | M. Faqih Zulfikar      |  Software Developer  | [Faqih](https://github.com/faqihzulfi)|
 
 ## Preview Video Produk
-
+[![Smart Trolley Video](https://img.youtube.com/vi/qu6nkCT1aYU/0.jpg)](https://youtu.be/qu6nkCT1aYU)
 
