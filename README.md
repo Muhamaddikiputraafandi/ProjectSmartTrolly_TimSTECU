@@ -1,5 +1,7 @@
 # Smart Shopping Trolley
 
+![Tampilan Aplikasi](assets/Screenshot%202025-05-05%20235712.png)
+
 Proyek ini bertujuan untuk mengembangkan Smart Shopping Trolley berbasis mikrokontroler yang dirancang untuk mempermudah pengalaman berbelanja di toko atau supermarket. Keranjang belanja ini dilengkapi dengan sensor RFID untuk membaca barang yang dimasukkan, menghitung total harga belanjaan secara otomatis, dan mengirimkan data pembelian ke aplikasi Android milik pembeli.
 Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan komunikasi UART untuk memberikan solusi cerdas yang memungkinkan konsumen memantau total harga belanjaan secara real-time. Dengan konsep ini, konsumen tidak perlu lagi mengantri di kasir, sehingga proses checkout menjadi lebih cepat, efisien, dan nyaman.
 
