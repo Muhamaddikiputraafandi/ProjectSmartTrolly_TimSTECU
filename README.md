@@ -42,4 +42,47 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 
 📽️ [Tonton Video Produk](Dokumentasi/Video%20Promotion%20Product%20(1).mp4)
 
+## 🛒 Cara Kerja Smart Trolley
+1. Inisialisasi Aplikasi
+•	Pengguna membuka aplikasi Smart Trolley.
+•	Tersedia dua fitur utama: SCAN dan LIST.
+
+2. Pemindaian Produk
+•	Pengguna menekan tombol SCAN NOW untuk memulai pemindaian barcode/QR code produk.
+•	Aplikasi mengaktifkan kamera dan membaca kode produk (misalnya: ITEM001).
+•	Kode produk dikirim ke Arduino via Bluetooth (HC-06).
+
+3. Pemrosesan di Arduino
+•	Arduino menerima kode produk.
+•	Mencocokkan kode dengan daftar item yang tersimpan di dalam memori (array).
+•	Jika cocok:
+o	Tambahkan ke daftar belanja.
+o	Tampilkan nama & harga produk di OLED.
+o	Aktifkan buzzer sebagai konfirmasi.
+
+4. Detail Produk di Aplikasi
+•	Aplikasi menerima informasi barang (nama & harga) dari Arduino via Bluetooth.
+•	Menampilkan detail produk.
+•	User menekan “Add to Shopping List” → data tersimpan di daftar belanja aplikasi.
+
+5. Daftar Belanja
+•	Aplikasi menampilkan seluruh item yang telah dipindai.
+•	Total harga ditampilkan secara otomatis.
+•	Terdapat tombol Checkout untuk proses pembayaran.
+•	(Opsional) User bisa membatalkan item tertentu → aplikasi kirim perintah BATAL ITEMxxx ke Arduino.
+
+6. Pembayaran
+•	Setelah checkout, aplikasi menampilkan kode QRIS untuk pembayaran menggunakan dompet digital.
+•	User membayar menggunakan aplikasi pembayaran QRIS
+
+7. Sukses Pembayaran
+•	Setelah transaksi berhasil:
+o	Aplikasi menampilkan notifikasi "Payment Successful".
+o	Aplikasi mengirim sinyal ke Arduino:
+	Menyalakan LED hijau.
+	Mengaktifkan relay (misalnya membuka kunci troli/pintu loker sebagai tanda transaksi selesai).
+
+## Foto 3D 
+
+
 
