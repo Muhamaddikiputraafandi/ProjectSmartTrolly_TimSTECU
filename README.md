@@ -56,9 +56,9 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 •	Arduino menerima kode produk.
 •	Mencocokkan kode dengan daftar item yang tersimpan di dalam memori (array).
 •	Jika cocok:
-o	Tambahkan ke daftar belanja.
-o	Tampilkan nama & harga produk di OLED.
-o	Aktifkan buzzer sebagai konfirmasi.
+    o	Tambahkan ke daftar belanja.
+    o	Tampilkan nama & harga produk di OLED.
+    o	Aktifkan buzzer sebagai konfirmasi.
 
 4. Detail Produk di Aplikasi
 •	Aplikasi menerima informasi barang (nama & harga) dari Arduino via Bluetooth.
@@ -77,12 +77,13 @@ o	Aktifkan buzzer sebagai konfirmasi.
 
 7. Sukses Pembayaran
 •	Setelah transaksi berhasil:
-o	Aplikasi menampilkan notifikasi "Payment Successful".
-o	Aplikasi mengirim sinyal ke Arduino:
-	Menyalakan LED hijau.
-	Mengaktifkan relay (misalnya membuka kunci troli/pintu loker sebagai tanda transaksi selesai).
+    o	Aplikasi menampilkan notifikasi "Payment Successful".
+    o	Aplikasi mengirim sinyal ke Arduino:
+            Menyalakan LED hijau.
+            Mengaktifkan relay (misalnya membuka kunci troli/pintu loker sebagai tanda transaksi selesai).
 
 ## Foto 3D 
+![Desain 3D Smart Trolley](./3D%20Design/Picture%20Desain%203D%20Smart%20Trolley.png)
 
 
 
