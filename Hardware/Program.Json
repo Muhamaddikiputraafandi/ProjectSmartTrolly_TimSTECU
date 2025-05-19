@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "author": "Person #6424",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-mega", "id": "mega", "top": -133.8, "left": -99.6, "attrs": {} },
+    { "type": "chip-bt", "id": "chip1", "top": -75.78, "left": 331.2, "attrs": {} },
+    {
+      "type": "board-ssd1306",
+      "id": "oled1",
+      "top": 79.94,
+      "left": 57.83,
+      "attrs": { "i2cAddress": "0x3c" }
+    },
+    { "type": "chip", "id": "hc06", "top": 0, "left": 200, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -214.8,
+      "left": -82.6,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": -196.8,
+      "left": -48.55,
+      "rotate": 90,
+      "attrs": { "value": "220" }
+    },
+    { "type": "wokwi-buzzer", "id": "buzzer1", "top": -256.8, "left": 59.4, "attrs": {} }
+  ],
+  "connections": [
+    [ "hc06:GND", "mega:GND.1", "black", [] ],
+    [ "hc06:VCC", "mega:5V", "red", [] ],
+    [ "hc06:TXD", "mega:RX1", "orange", [] ],
+    [ "hc06:RXD", "mega:TX1", "yellow", [] ],
+    [ "mega:GND.3", "oled1:GND", "black", [ "v0" ] ],
+    [ "mega:19", "chip1:RXD", "gray", [ "v57.6", "h117.1" ] ],
+    [ "mega:18", "chip1:TXD", "purple", [ "v0" ] ],
+    [ "chip1:GND", "mega:GND.5", "black", [ "h0" ] ],
+    [ "oled1:VCC", "mega:5V", "red", [ "v0" ] ],
+    [ "oled1:SCL", "mega:21", "green", [ "v0" ] ],
+    [ "mega:20", "oled1:SDA", "green", [ "v0" ] ],
+    [ "mega:3.3V", "chip1:VCC", "cyan", [ "v0" ] ],
+    [ "led1:A", "r1:1", "green", [ "v0" ] ],
+    [ "mega:13", "r1:2", "green", [ "v0" ] ],
+    [ "mega:GND.1", "led1:C", "black", [ "v0" ] ],
+    [ "buzzer1:+", "mega:12", "blue", [ "v0" ] ],
+    [ "buzzer1:-", "mega:GND.2", "black", [ "v0" ] ],
+    [ "mega:GND.1", "buzzer1:1", "black", [ "v0" ] ],
+    [ "mega:12", "buzzer1:2", "green", [ "v-28.8", "h57.6" ] ]
+  ],
+  "dependencies": {}
+}
