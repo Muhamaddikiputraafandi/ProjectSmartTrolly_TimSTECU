@@ -85,5 +85,7 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 ## Foto 3D 
 ![Desain 3D Smart Trolley](./3D%20Design/Picture%20Desain%203D%20Smart%20Trolley.png)
 
+🔗 [Desain 3D Smart Trolley di Thingiverse](https://www.thingiverse.com/thing:7042336)
+
 
 
