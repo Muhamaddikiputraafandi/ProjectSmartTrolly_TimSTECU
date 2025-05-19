@@ -13,14 +13,17 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 - #### Koneksi Bluetooth UART ke Android :
     Total belanjaan, daftar barang, dan info lainnya dikirimkan secara real-time via modul Bluetooth (HC-05/HC-06) ke aplikasi Android.
 - #### Manajemen Item :
-    Di aplikasi Android, pengguna bisa Melihat daftar item belanja dan Menghapus item (fitur cancel jika batal beli barang)
+    Di aplikasi Android, pengguna bisa Melihat daftar item belanja dan Menghapus item (fitur cancel jika batal beli barang).
 - #### Notifikasi Suara/LED :
-    LED indikator dan buzzer berbunyi jika terjadi event penting: Barang baru dimasukkan, Barang dibatalkan, dan Total harga berubah
+    LED indikator dan buzzer berbunyi jika terjadi event penting: Barang baru dimasukkan, Barang dibatalkan, dan Total harga berubah.
+- #### Code Qris Pembayaran :
+    Konsumen dapat melakukan pembayaran secara langsung melalui code Qris yang telah diinformasikan melalui gadget konsumen.
 
 ## Support By
 - Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
 - Mata kuliah : Mikrokontroller
 - Program Studi : D4 Teknik Elektronika
+- DEPARTEMEN TEKNIK ELEKTRO
 - Politeknik Elektronika Negeri Surabaya
 
 ## Team Member :
