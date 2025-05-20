@@ -87,5 +87,11 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 
 🔗 [Desain 3D Smart Trolley di Thingiverse](https://www.thingiverse.com/thing:7042336)
 
+## Video Cara pembuatan 3D
+📽️ [Tonton Video Panduan Desain 3D](https://intip.in/VIDEOPANDUANDESAIN3D)
+
+## Demo Video Simulasi
+🧪 [Klik di sini untuk melihat simulasi Wokwi](https://intip.in/simulasiwokwi)
+
 
 
