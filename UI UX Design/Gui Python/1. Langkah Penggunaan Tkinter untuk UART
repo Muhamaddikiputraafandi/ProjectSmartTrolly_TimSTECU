@@ -1,0 +1,26 @@
+1. Buka file "TkinterWeb" yang terdapat pada folder Gui Python
+2. Kemudian jalankan program python yang terdapat pada file tersebut
+3. Setelah berjalan kita akan diarahkan untuk mengisi "Token Figma"dan "URL Figma"
+4. Untuk mendapatkan Token figma: 
+🔧 Langkah-langkah:
+-Masuk ke https://www.figma.com
+-Klik foto profil Anda → pilih Settings
+-Scroll ke bawah ke bagian Personal Access Tokens
+-Klik Generate new token
+-Masukkan nama token (misal: tkinter-designer)
+-Klik Create
+-Salin token yang muncul
+> ⚠ Token ini hanya ditampilkan 1 kali, jadi salin dan simpan.
+Contoh hasil token:
+123456abcdefgHGFEDCBA654321
+5. Untuk mendapatkan URL file Figma:
+> JANGAN pakai URL seperti /design/..., tapi pakai /file/...
+🔧 Langkah-langkah:
+-Buka desain Anda di Figma
+-Klik tombol Share
+-Salin URL seperti ini:
+Contoh:
+https://www.figma.com/file/pQICiX3LwqUT9YJWLTK00W/Smart-Trolley
+6. Setelah semua telah diisi (Token Figma, URL file Figma) maka kita bisa langsung mengconvert semua design kita ke python lengkap dengan assets nya
+7. File akan disimpan sesuai dengan penempatan file yang kita tempatkan
+8. Gui python dapat dijalankan
