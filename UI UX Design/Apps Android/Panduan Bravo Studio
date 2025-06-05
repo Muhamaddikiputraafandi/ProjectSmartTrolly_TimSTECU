@@ -1,0 +1,9 @@
+Langkah Langkah menggunakan plug-in FIgma (Bravo Studio)
+1. Buka browser web Bravo Studio atau buka figma kemudian
+2. Buat akun pada Bravo Studio (sesuai dengan akun yang digunakan untuk design figma atau bisa juga login menggunakan akun figma)
+3. Allow Access pada Bravo Studio pada saat menghubungkan Bravo Studio dengan Figma
+4. Apabila sudah terhubung, klik "create new app"
+5. Copy link design figma yang sudah dibuat kemudian paste pada Bravo Studio
+6. Kemudian klik "Connect Bravorized Figma File"
+7. Setelah itu Bravo Studio akan mengconvert design yang sudah dibuat di Figma menjadi aplikasi yang dapat digunakan
+8. Aplikasi yang dibuat pada Bravo Studio berjalan dengan design Figma yang telah dibuat, jadi buatlah design yang menarik lengkap dengan interactionnya :)
