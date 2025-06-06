@@ -93,5 +93,8 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 ## Demo Video Simulasi
 🧪 [Klik di sini untuk melihat simulasi Wokwi](https://intip.in/simulasiwokwi)
 
+## Desaign Figma
+[Lihat Desain di Figma](https://www.figma.com/proto/pQICiX3LwqUT9YJWLTK00W/Smart-Trolley?node-id=0-1&t=6SqoGFO5Xu7j4LwM-1)
+
 
 
