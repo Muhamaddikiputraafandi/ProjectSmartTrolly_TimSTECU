@@ -96,5 +96,7 @@ Sistem ini menggunakan kombinasi teknologi barcode scanner, sensor RFID, dan kom
 ## Design Figma
 [Lihat Desain di Figma](https://www.figma.com/proto/pQICiX3LwqUT9YJWLTK00W/Smart-Trolley?node-id=0-1&t=6SqoGFO5Xu7j4LwM-1)
 
+## Cara Kerja Apklikasi
+[Tonton Video Penggunaan Apk](https://github.com/Muhamaddikiputraafandi/ProjectSmartTrolly_TimSTECU/blob/main/UI%20UX%20Design/Figma/Penggunaan%20Apk.mp4)
 
 
